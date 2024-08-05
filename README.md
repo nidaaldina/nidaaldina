@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nidaaldina
-- 👀 I’m interested in Data Science, Data Analysis, and Machine Learning.
+- 👀 I’m interested in Data Analysis and Data Science.
 - 🌱 I’m currently learning advanced data visualization techniques and deep learning.
 - 💞️ I’m looking to collaborate on open-source data projects, particularly in predictive analytics and data-driven decision making.
 - 📫 How to reach me [[linkedin](https://id.linkedin.com/in/nida-zakia-aldina-344379218)]
