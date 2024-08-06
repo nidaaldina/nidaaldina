@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nidaaldina
-- 👀 I’m interested in Data Analysis and Data Science.
-- 🌱 I’m currently learning advanced data visualization techniques and deep learning.
-- 💞️ I’m looking to collaborate on open-source data projects, particularly in predictive analytics and data-driven decision making.
+- 👀 Fresh graduate student majoring in Informatics with focused on data science at Universitas Pembangunan Nasional "Veteran" Jakarta.
+- 🌱 Participated in the Bangkit Academy 2023 program supported by Google, Tokopedia, Gojek, and Traveloka, specializing in the machine learning path.
+- 💞️ Highly interested in data analysis and data science, committed to further developing skills and contributing to the field.
 - 📫 How to reach me [[linkedin](https://id.linkedin.com/in/nida-zakia-aldina-344379218)]
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love using data to solve real-world problems and am a huge fan of data-driven storytelling.
+- ⚡ I love diving into data, looking for patterns, and uncovering the stories behind the numbers. It's like solving a puzzle which is very satisfying!
